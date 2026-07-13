@@ -1,6 +1,4 @@
 
-//ProgrammingAdvices.com
-//Mohammed Abu-Hadhoud
 #include <iostream>
 #include "clsString.h"
 
