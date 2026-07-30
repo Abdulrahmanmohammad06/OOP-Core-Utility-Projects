@@ -35,6 +35,14 @@ Every project below is contained within its own dedicated folder. Inside each fo
   * [`clsString.h`](./Utility%20Library%20Project/clsString.h) — Integrated helper library used for text manipulation and formatting.
   * [`Utility Library Project.cpp`](./Utility%20Library%20Project/Utility%20Library%20Project.cpp) — Main implementation and testing bench program.
 
+### 5. 🛡️ [Input & Validation Library Project](./Input%20%26%20Validation%20Library%20Project/)
+* **Description:** A specialized input validation and reading library designed to handle user inputs safely, validate numerical ranges, check date boundary intersections, and protect applications from invalid stream states.
+* **Key Components:**
+  * [`clsInputValidate.h`](./Input%20%26%20Validation%20Library%20Project/clsInputValidate.h) — The core OOP validation class providing overloaded boundary checks (`IsNumberBetween`), range validation for dates (`IsDateBetween`), date validation, and safe interactive reading methods (`ReadIntNumber`, `ReadDblNumber`, etc.) with input stream clearing.
+  * [`clsDate.h`](./Input%20%26%20Validation%20Library%20Project/clsDate.h) — Integrated date management class used for date range checks and validations.
+  * [`clsString.h`](./Input%20%26%20Validation%20Library%20Project/clsString.h) — Integrated helper library used for text handling.
+  * [`Input & Validation Library Project.cpp`](./Input%20%26%20Validation%20Library%20Project/Input%20%26%20Validation%20Library%20Project.cpp) — Implementation and testing file.
+
 ---
 
 ## 🚀 How to Reuse These Libraries
