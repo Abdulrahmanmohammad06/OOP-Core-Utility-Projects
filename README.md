@@ -43,6 +43,21 @@ Every project below is contained within its own dedicated folder. Inside each fo
   * [`clsString.h`](./Input%20%26%20Validation%20Library%20Project/clsString.h) — Integrated helper library used for text handling.
   * [`Input & Validation Library Project.cpp`](./Input%20%26%20Validation%20Library%20Project/Input%20%26%20Validation%20Library%20Project.cpp) — Implementation and testing file.
 
+### 6. 🏦 [Bank System Project](https://github.com/Abdulrahmanmohammad06/OOP-Core-Utility-Projects/tree/master/Bank%20System%20Project)
+
+- **Description:** A complete console-based banking system developed using Object-Oriented Programming principles, featuring client management, user authentication, banking transactions, currency management, and money transfer operations.
+- **Key Components:**
+  - `clsBankClient.h` — Core client class responsible for managing bank client information and account operations.
+  - `clsUser.h` — User management and authentication functionality.
+  - `clsCurrency.h` — Currency information and currency-related operations.
+  - `clsTransferLog.h` — Handles transfer transaction records.
+  - `clsLoginScreen.h` — Provides the system login interface.
+  - `clsMainScreen.h` — Provides the main system navigation interface.
+  - `clsTransactionsScreen.h` — Handles banking transaction operations.
+  - `clsTransferScreen.h` — Provides the money transfer interface.
+  - `clsManageUsersScreen.h` — Provides user management functionality.
+  - `Bank System Project.cpp` — Main implementation and system entry point.
+
 ---
 
 ## 🚀 How to Reuse These Libraries
