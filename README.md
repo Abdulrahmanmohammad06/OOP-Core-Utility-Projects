@@ -46,19 +46,18 @@ Every project below is contained within its own dedicated folder. Inside each fo
 ### 6. 🏦 [Bank System Project](https://github.com/Abdulrahmanmohammad06/OOP-Core-Utility-Projects/tree/master/Bank%20System%20Project)
 
 - **Description:** A complete console-based banking system developed using Object-Oriented Programming principles, featuring client management, user authentication, banking transactions, currency management, and money transfer operations.
-- - **Key Components:**
-  - [`clsBankClient.h`](https://github.com/Abdulrahmanmohammad06/OOP-Core-Utility-Projects/blob/master/Bank%20System%20Project/Bank%20System%20Project/clsBankClient.h) — Core client class responsible for managing bank client information and account operations.
-  - [`clsUser.h`](https://github.com/Abdulrahmanmohammad06/OOP-Core-Utility-Projects/blob/master/Bank%20System%20Project/Bank%20System%20Project/clsUser.h) — User management and authentication functionality.
-  - [`clsCurrency.h`](https://github.com/Abdulrahmanmohammad06/OOP-Core-Utility-Projects/blob/master/Bank%20System%20Project/Bank%20System%20Project/clsCurrency.h) — Currency information and currency-related operations.
-  - [`clsTransferLog.h`](https://github.com/Abdulrahmanmohammad06/OOP-Core-Utility-Projects/blob/master/Bank%20System%20Project/Bank%20System%20Project/clsTransferLog.h) — Handles transfer transaction records.
-  - [`clsLoginScreen.h`](https://github.com/Abdulrahmanmohammad06/OOP-Core-Utility-Projects/blob/master/Bank%20System%20Project/Bank%20System%20Project/clsLoginScreen.h) — Provides the system login interface.
-  - [`clsMainScreen.h`](https://github.com/Abdulrahmanmohammad06/OOP-Core-Utility-Projects/blob/master/Bank%20System%20Project/Bank%20System%20Project/clsMainScreen.h) — Provides the main system navigation interface.
-  - [`clsTransactionsScreen.h`](https://github.com/Abdulrahmanmohammad06/OOP-Core-Utility-Projects/blob/master/Bank%20System%20Project/Bank%20System%20Project/clsTransactionsScreen.h) — Handles banking transaction operations.
-  - [`clsTransferScreen.h`](https://github.com/Abdulrahmanmohammad06/OOP-Core-Utility-Projects/blob/master/Bank%20System%20Project/Bank%20System%20Project/clsTransferScreen.h) — Provides the money transfer interface.
-  - [`clsManageUsersScreen.h`](https://github.com/Abdulrahmanmohammad06/OOP-Core-Utility-Projects/blob/master/Bank%20System%20Project/Bank%20System%20Project/clsManageUsersScreen.h) — Provides user management functionality.
-  - [`Bank System Project.cpp`](https://github.com/Abdulrahmanmohammad06/OOP-Core-Utility-Projects/blob/master/Bank%20System%20Project/Bank%20System%20Project/Bank%20System%20Project.cpp) — Main implementation and system entry point.
-
----
+- **Key Components:**
+  - [`clsBankClient.h`](https://github.com/Abdulrahmanmohammad06/OOP-Core-Utility-Projects/blob/master/Bank%20System%20Project/Bank%20System%20Project/Bank%20System%20Project/clsBankClient.h) — Core client class responsible for managing bank client information and account operations.
+  - [`clsUser.h`](https://github.com/Abdulrahmanmohammad06/OOP-Core-Utility-Projects/blob/master/Bank%20System%20Project/Bank%20System%20Project/Bank%20System%20Project/clsUser.h) — User management and authentication functionality.
+  - [`clsCurrencyCalculatorScreen.h`](https://github.com/Abdulrahmanmohammad06/OOP-Core-Utility-Projects/blob/master/Bank%20System%20Project/Bank%20System%20Project/Bank%20System%20Project/clsCurrencyCalculatorScreen.h) — Provides currency calculation functionality.
+  - [`clsCurrencyExchangeMainScreen.h`](https://github.com/Abdulrahmanmohammad06/OOP-Core-Utility-Projects/blob/master/Bank%20System%20Project/Bank%20System%20Project/Bank%20System%20Project/clsCurrencyExchangeMainScreen.h) — Handles the main currency exchange interface.
+  - [`clsTransferLogScreen.h`](https://github.com/Abdulrahmanmohammad06/OOP-Core-Utility-Projects/blob/master/Bank%20System%20Project/Bank%20System%20Project/Bank%20System%20Project/clsTransferLogScreen.h) — Provides access to transfer log records.
+  - [`clsTransferScreen.h`](https://github.com/Abdulrahmanmohammad06/OOP-Core-Utility-Projects/blob/master/Bank%20System%20Project/Bank%20System%20Project/Bank%20System%20Project/clsTransferScreen.h) — Provides the money transfer interface.
+  - [`clsTransactionsScreen.h`](https://github.com/Abdulrahmanmohammad06/OOP-Core-Utility-Projects/blob/master/Bank%20System%20Project/Bank%20System%20Project/Bank%20System%20Project/clsTransactionsScreen.h) — Handles banking transaction operations.
+  - [`clsLoginScreen.h`](https://github.com/Abdulrahmanmohammad06/OOP-Core-Utility-Projects/blob/master/Bank%20System%20Project/Bank%20System%20Project/Bank%20System%20Project/clsLoginScreen.h) — Provides the system login interface.
+  - [`clsMainScreen.h`](https://github.com/Abdulrahmanmohammad06/OOP-Core-Utility-Projects/blob/master/Bank%20System%20Project/Bank%20System%20Project/Bank%20System%20Project/clsMainScreen.h) — Provides the main system navigation interface.
+  - [`clsManageUsersScreen.h`](https://github.com/Abdulrahmanmohammad06/OOP-Core-Utility-Projects/blob/master/Bank%20System%20Project/Bank%20System%20Project/Bank%20System%20Project/clsManageUsersScreen.h) — Provides user management functionality.
+  - [`Bank System Project.cpp`](https://github.com/Abdulrahmanmohammad06/OOP-Core-Utility-Projects/blob/master/Bank%20System%20Project/Bank%20System%20Project/Bank%20System%20Project/Bank%20System%20Project.cpp) — Main implementation and system entry point.---
 
 ## 🚀 How to Reuse These Libraries
 
